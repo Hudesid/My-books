@@ -8,7 +8,7 @@
 
 ### Project description
 
-Bu mening birinichi to'liq bolmasa ham saytim desa ham bo'ladi bu yerda kitoblar ro'yxatlari bor, ularni bemalol ochib ko'rsangiz bo'ladi.
+Bu mening birinichi to'liq bo'lmasa ham saytim desa ham bo'ladi bu yerda kitoblar ro'yxatlari bor, ularni bemalol ochib ko'rsangiz bo'ladi.
 
 ### Installation
 
